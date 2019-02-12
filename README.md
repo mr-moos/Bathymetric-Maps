@@ -38,6 +38,32 @@ of the profile
 <img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Aiguilles Canyon/Map4_Profile.png" width=50% align="middle" alt="Profile of Aiguilles Canyon"> 
 </details>
 
+<details>
+<summary>Barrier Bank</summary>
+
+#### Fig. 1 Index map showing the location of Barrier Bank
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Barrier Bank/Map1_RegionalScale.png" width=50% align="middle" alt="Index map showing the location of Barrier Bank"> 
+
+#### Fig. 2 Bathymetric map of Barrier Bank
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Barrier Bank/Map3_Bathy.png" width=50% align="middle" alt="Bathymetric map of Barrier Bank"> 
+
+#### Fig. 3 Profile of Barrier Bank
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Barrier Bank/Map4_Profile.png" width=50% align="middle" alt="Profile of Barrier Bank"> 
+</details>
+
+<details>
+<summary>Barrier Ridge</summary>
+
+#### Fig. 1 Index map showing the location of Barrier Ridge
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Barrier Ridge/Map1_RegionalScale.png" width=50% align="middle" alt="Index map showing the location of Barrier Ridge"> 
+
+#### Fig. 2 Bathymetric map of Barrier Ridge
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Barrier Ridge/Map3_Bathy.png" width=50% align="middle" alt="Bathymetric map of Barrier Ridge"> 
+
+#### Fig. 3 Profile of Barrier Ridge
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Barrier Ridge/Map4_Profile.png" width=50% align="middle" alt="Profile of Barrier Ridge"> 
+</details>
+
 
 
 ## Data Source
