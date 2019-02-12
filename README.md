@@ -2,7 +2,7 @@
 Bathymetric maps to support New Zealand Geographic Board's 
 ([NZGB](https://www.linz.govt.nz/regulatory/place-names/about-new-zealand-geographic-board))
  undersea feature name proposals to General Bathymetric Chart of the Oceans ([GEBCO](https://www.gebco.net/))
-  Sub-Committe on Undersea Feature Names ([SCUFN](https://www.iho.int/srv1/index.php?option=com_content&view=article&id=443&Itemid=747&lang=en))
+  Sub-Committe on Undersea Feature Names ([SCUFN](https://www.iho.int/srv1/index.php?option=com_content&view=article&id=443&Itemid=747&lang=en)). 
 
 The maps have been prepared following the B-6 Guidelines outlined below:
 
@@ -23,6 +23,7 @@ of the profile
 >This document contains a translation of IHO B-6 4.1.0. The IHO has not checked this translation and therefore takes no responsibility for its accuracy. In case of doubt the source version of B-6 4.1.0 in English should be consulted.
 </details>
 
+For more information about the undersea features below, search by name on the [New Zealand Gazetteer](https://gazetteer.linz.govt.nz/) or see https://www.linz.govt.nz/regulatory/place-names/find-place-name/find-undersea-feature-names.
 
 ## Completed Content
 <details>
@@ -63,7 +64,6 @@ of the profile
 #### Fig. 3 Profile of Barrier Ridge
 <img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Barrier Ridge/Map4_Profile.png" width=50% align="middle" alt="Profile of Barrier Ridge"> 
 </details>
-
 
 
 ## Data Source
