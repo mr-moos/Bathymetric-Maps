@@ -65,6 +65,19 @@ For more information about the undersea features below, search by name on the [N
 <img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Barrier Ridge/Map4_Profile.png" width=50% align="middle" alt="Profile of Barrier Ridge"> 
 </details>
 
+<details>
+<summary>Fiordland Trench</summary>
+
+#### Fig. 1 Index map showing the location of Fiordland Trench
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Fiordland Trench/Map1_RegionalScale.png" width=50% align="middle" alt="Index map showing the location of Barrier Ridge"> 
+
+#### Fig. 2 Bathymetric map of Fiordland Trench
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Fiordland Trench/Map3_Bathy.png" width=50% align="middle" alt="Bathymetric map of Barrier Ridge"> 
+
+#### Fig. 3 Profile of Fiordland Trench
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Fiordland Trench/Map4_Profile.png" width=50% align="middle" alt="Profile of Barrier Ridge"> 
+</details>
+
 
 ## Data Source
 Contains data sourced from https://www.niwa.co.nz/our-science/oceans/bathymetry licensed for re-use under [NODL BY-NN-NC-SA 1.0](https://www.niwa.co.nz/environmental-information/licences/niwa-open-data-licence-by-nn-nc-sa-version-1)
