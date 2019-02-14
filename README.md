@@ -69,27 +69,54 @@ For more information about the undersea features below, search by name on the [N
 <summary>Fiordland Trench</summary>
 
 #### Fig. 1 Index map showing the location of Fiordland Trench
-<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Fiordland Trench/Map1_RegionalScale.png" width=50% align="middle" alt="Index map showing the location of Barrier Ridge"> 
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Fiordland Trench/Map1_RegionalScale.png" width=50% align="middle" alt="Index map showing the location of Fiordland Trench"> 
 
 #### Fig. 2 Bathymetric map of Fiordland Trench
-<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Fiordland Trench/Map3_Bathy.png" width=50% align="middle" alt="Bathymetric map of Barrier Ridge"> 
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Fiordland Trench/Map3_Bathy.png" width=50% align="middle" alt="Bathymetric map of Fiordland Trench"> 
 
 #### Fig. 3 Profile of Fiordland Trench
-<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Fiordland Trench/Map4_Profile.png" width=50% align="middle" alt="Profile of Barrier Ridge"> 
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Fiordland Trench/Map4_Profile.png" width=50% align="middle" alt="Profile of Fiordland Trench"> 
 </details>
 
 <details>
 <summary>Katz Guyot</summary>
 
 #### Fig. 1 Index map showing the location of Katz Guyot 
-<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Katz Guyot/Map1_RegionalScale.png" width=50% align="middle" alt="Index map showing the location of Barrier Ridge"> 
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Katz Guyot/Map1_RegionalScale.png" width=50% align="middle" alt="Index map showing the location of Katz Guyot"> 
 
 #### Fig. 2 Bathymetric map of Katz Guyot
-<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Katz Guyot/Map3_Bathy.png" width=50% align="middle" alt="Bathymetric map of Barrier Ridge"> 
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Katz Guyot/Map3_Bathy.png" width=50% align="middle" alt="Bathymetric map of Katz Guyot"> 
 
 #### Fig. 3 Profile of Katz Guyot
-<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Katz Guyot/Map4_Profile.png" width=50% align="middle" alt="Profile of Barrier Ridge"> 
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Katz Guyot/Map4_Profile.png" width=50% align="middle" alt="Profile of Katz Guyot"> 
 </details>
+
+<details>
+<summary>Pantin Bank</summary>
+
+#### Fig. 1 Index map showing the location of Pantin Bank 
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Pantin Bank/Map1_RegionalScale.png" width=50% align="middle" alt="Index map showing the location of Pantin Bank"> 
+
+#### Fig. 2 Bathymetric map of Pantin Bank
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Pantin Bank/Map3_Bathy.png" width=50% align="middle" alt="Bathymetric map of Pantin Bank"> 
+
+#### Fig. 3 Profile of Pantin Bank
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Pantin Bank/Map4_Profile.png" width=50% align="middle" alt="Profile of Pantin Bank"> 
+</details>
+
+<details>
+<summary>Te Kapu Bank</summary>
+
+#### Fig. 1 Index map showing the location of Te Kapu Bank 
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Te Kapu Bank/Map1_RegionalScale.png" width=50% align="middle" alt="Index map showing the location of Te Kapu Bank"> 
+
+#### Fig. 2 Bathymetric map of Te Kapu Bank
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Te Kapu Bank/Map3_Bathy.png" width=50% align="middle" alt="Bathymetric map of Te Kapu Bank"> 
+
+#### Fig. 3 Profile of Te Kapu Bank
+<img src="https://raw.githubusercontent.com/mr-moos/Bathymetric-Maps/master/Features/Te Kapu Bank/Map4_Profile.png" width=50% align="middle" alt="Profile of Te Kapu Bank"> 
+</details>
+
 
 
 ## Data Source
